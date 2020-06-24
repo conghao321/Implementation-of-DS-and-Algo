@@ -1,3 +1,6 @@
+/*This is a vector array in Java version
+However, in java, you should pick ArrayList in most cases
+*/
 public class VectorArray<T> {
     int size;
     int capacity;
